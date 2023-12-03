@@ -1,5 +1,3 @@
-# Analysis-for-Supermarket-Data 
-
 # Global-Superstore-Sales-Dashboard-Using-Power-Bi
 <img src="https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/ffd832af-ddb7-4315-87eb-1dd0fbac56bb" height="400" width="1800" >
 
@@ -7,7 +5,7 @@
 
 
 ## Objective
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecaasting.
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ## Process
 To help supermarkets achieve their goals for growth, efficiency, and customer satisfaction, I can assist in several ways.
@@ -22,6 +20,7 @@ Overall, my ultimate goal is to provide useful insights and actionable informati
 ## Interactive Dashboard
 
 
+https://github.com/ritikaga/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/66274316/a33453ef-9943-40f6-829b-047d945b5831
 
 
 ## Sales Forecasting for the next 6 months
